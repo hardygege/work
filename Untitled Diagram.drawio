@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-11T12:42:03.765Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="Wg7DLA720UolBaJXpCEc" version="14.6.11" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-11T12:51:34.971Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="OvO4DCQRu74Fa8mq65P0" version="14.6.11" type="github">
   <diagram name="Page-1" id="12e1b939-464a-85fe-373e-61e167be1490">
     <mxGraphModel dx="1249" dy="811" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
       <root>
@@ -94,7 +94,7 @@
         <mxCell id="-69QhgYu0o7bPw_on2T7-1" value="技术方案评审" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="200" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-69QhgYu0o7bPw_on2T7-3" value="PRD评审通过&lt;br&gt;（大需求）" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+        <mxCell id="-69QhgYu0o7bPw_on2T7-3" value="PRD评审通过&lt;br&gt;（大需求）" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="200" y="60" width="120" height="67" as="geometry" />
         </mxCell>
         <mxCell id="-69QhgYu0o7bPw_on2T7-7" value="开发中-Mock开发" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
@@ -123,6 +123,30 @@
         </mxCell>
         <mxCell id="-69QhgYu0o7bPw_on2T7-15" value="APP发版-灰度" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1640" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-69QhgYu0o7bPw_on2T7-17" value="明确接口定义" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="360" y="60" width="120" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="-69QhgYu0o7bPw_on2T7-18" value="UI评审通过" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="520" y="60" width="120" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="-69QhgYu0o7bPw_on2T7-19" value="接口环境完善" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="680" y="60" width="120" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="-69QhgYu0o7bPw_on2T7-20" value="测试用例评审完成" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="840" y="60" width="120" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="-69QhgYu0o7bPw_on2T7-22" value="提测邮件" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-69QhgYu0o7bPw_on2T7-23" value="发版前3天" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-69QhgYu0o7bPw_on2T7-25" value="UI走查通过&amp;amp;测试通过&amp;amp;产品走查通过" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="1640" y="70" width="120" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="-69QhgYu0o7bPw_on2T7-27" value="清理所有开发中产生的崩溃" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="280" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
