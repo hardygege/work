@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-12T02:55:55.973Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="bN1HDOZBe-NYD8IKKfmU" version="14.6.11" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-12T02:56:44.212Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="HGaW_1akLI7dmV10ClnS" version="14.6.11" type="github">
   <diagram name="Page-1" id="12e1b939-464a-85fe-373e-61e167be1490">
     <mxGraphModel dx="1249" dy="811" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
       <root>
@@ -124,7 +124,7 @@
         <mxCell id="-69QhgYu0o7bPw_on2T7-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-69QhgYu0o7bPw_on2T7-17" target="-69QhgYu0o7bPw_on2T7-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-69QhgYu0o7bPw_on2T7-17" value="明确接口定义" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+        <mxCell id="-69QhgYu0o7bPw_on2T7-17" value="服务端明确接口定义" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="360" y="60" width="120" height="67" as="geometry" />
         </mxCell>
         <mxCell id="-69QhgYu0o7bPw_on2T7-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-69QhgYu0o7bPw_on2T7-18" target="-69QhgYu0o7bPw_on2T7-8">
