@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-22T13:09:51.439Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="UsojjyZf4n9arJeMFfaK" version="14.6.12" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-22T13:12:11.748Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="tHmJaRf7jM_i-qJetEB7" version="14.6.12" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2253" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -71,7 +71,7 @@
         <mxCell id="cxGSCQVcs1KOMOcaWvu9-27" value="" style="endArrow=classic;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-3" y="300" as="sourcePoint" />
-            <mxPoint x="827" y="300" as="targetPoint" />
+            <mxPoint x="920" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="cxGSCQVcs1KOMOcaWvu9-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cxGSCQVcs1KOMOcaWvu9-29" target="cxGSCQVcs1KOMOcaWvu9-31">
@@ -137,6 +137,12 @@
         </mxCell>
         <mxCell id="cxGSCQVcs1KOMOcaWvu9-41" value="查找Flutter&lt;br&gt;缓存" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="317" y="400" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cxGSCQVcs1KOMOcaWvu9-42" value="Native获取图片逻辑&lt;br&gt;独立获取" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="760" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cxGSCQVcs1KOMOcaWvu9-43" value="Flutter获取图片逻辑&lt;br&gt;独立获取" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="760" y="410" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
