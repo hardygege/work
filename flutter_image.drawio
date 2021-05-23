@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-22T13:12:11.748Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="tHmJaRf7jM_i-qJetEB7" version="14.6.12" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-23T08:18:12.680Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="mmN92WjIeTf1GjJ_yxgW" version="14.6.12" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2253" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -138,11 +138,176 @@
         <mxCell id="cxGSCQVcs1KOMOcaWvu9-41" value="查找Flutter&lt;br&gt;缓存" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="317" y="400" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="cxGSCQVcs1KOMOcaWvu9-42" value="Native获取图片逻辑&lt;br&gt;独立获取" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="cxGSCQVcs1KOMOcaWvu9-42" value="Native获取图片逻辑&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="760" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cxGSCQVcs1KOMOcaWvu9-43" value="Flutter获取图片逻辑&lt;br&gt;独立获取" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="cxGSCQVcs1KOMOcaWvu9-43" value="Flutter获取图片逻辑" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="760" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cxGSCQVcs1KOMOcaWvu9-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cxGSCQVcs1KOMOcaWvu9-45" target="cxGSCQVcs1KOMOcaWvu9-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cxGSCQVcs1KOMOcaWvu9-45" value="Native" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="30" y="710" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cxGSCQVcs1KOMOcaWvu9-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cxGSCQVcs1KOMOcaWvu9-47">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cxGSCQVcs1KOMOcaWvu9-47" value="获取图片" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="180" y="750" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cxGSCQVcs1KOMOcaWvu9-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cxGSCQVcs1KOMOcaWvu9-49" target="cxGSCQVcs1KOMOcaWvu9-52">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="630" y="700" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cxGSCQVcs1KOMOcaWvu9-49" value="下载图片" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="440" y="670" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cxGSCQVcs1KOMOcaWvu9-50" value="解码并显示图片" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="440" y="830" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cxGSCQVcs1KOMOcaWvu9-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cxGSCQVcs1KOMOcaWvu9-52" target="cxGSCQVcs1KOMOcaWvu9-50">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="630" y="860" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cxGSCQVcs1KOMOcaWvu9-52" value="缓存到Native&lt;br&gt;图片池" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="580" y="750" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cxGSCQVcs1KOMOcaWvu9-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cxGSCQVcs1KOMOcaWvu9-57" target="cxGSCQVcs1KOMOcaWvu9-50">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="360" y="860" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cxGSCQVcs1KOMOcaWvu9-54" value="有缓存" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cxGSCQVcs1KOMOcaWvu9-53">
+          <mxGeometry x="0.3167" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cxGSCQVcs1KOMOcaWvu9-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cxGSCQVcs1KOMOcaWvu9-57" target="cxGSCQVcs1KOMOcaWvu9-49">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="360" y="700" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cxGSCQVcs1KOMOcaWvu9-56" value="无缓存" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cxGSCQVcs1KOMOcaWvu9-55">
+          <mxGeometry x="0.3333" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cxGSCQVcs1KOMOcaWvu9-57" value="查找Native&lt;br&gt;缓存" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="320" y="740" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cxGSCQVcs1KOMOcaWvu9-58" value="Native和Flutter&lt;br&gt;共享图片获取及&lt;br&gt;缓存逻辑" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="763" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cxGSCQVcs1KOMOcaWvu9-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cxGSCQVcs1KOMOcaWvu9-59" target="cxGSCQVcs1KOMOcaWvu9-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cxGSCQVcs1KOMOcaWvu9-59" value="Flutter" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="30" y="800" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cxGSCQVcs1KOMOcaWvu9-62" value="Flutter显示图片" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="37" y="1020" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cxGSCQVcs1KOMOcaWvu9-63" value="纹理注册" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="197" y="1020" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cxGSCQVcs1KOMOcaWvu9-64" value="纹理渲染" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="480" y="1020" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cxGSCQVcs1KOMOcaWvu9-65" value="Flutter" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="640" y="1020" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cxGSCQVcs1KOMOcaWvu9-67" value="Texture（ID）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="197" y="1120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cxGSCQVcs1KOMOcaWvu9-68" value="FlutterTexture" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="197" y="1220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cxGSCQVcs1KOMOcaWvu9-93" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cxGSCQVcs1KOMOcaWvu9-69" target="cxGSCQVcs1KOMOcaWvu9-71">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="540" y="1390" />
+              <mxPoint x="540" y="1390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cxGSCQVcs1KOMOcaWvu9-69" value="FlutterTextureRegistry" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="483" y="1320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cxGSCQVcs1KOMOcaWvu9-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="541" y="1180" as="sourcePoint" />
+            <mxPoint x="542.5" y="1220" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="543" y="1180" />
+              <mxPoint x="543" y="1200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cxGSCQVcs1KOMOcaWvu9-70" value="Texture（ID）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="480" y="1120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cxGSCQVcs1KOMOcaWvu9-94" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cxGSCQVcs1KOMOcaWvu9-71" target="cxGSCQVcs1KOMOcaWvu9-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cxGSCQVcs1KOMOcaWvu9-71" value="FlutterTexture&lt;br&gt;(copyPixelBuffer)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="480" y="1420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cxGSCQVcs1KOMOcaWvu9-72" value="Flutter GLRender" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="480" y="1520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cxGSCQVcs1KOMOcaWvu9-91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cxGSCQVcs1KOMOcaWvu9-73" target="cxGSCQVcs1KOMOcaWvu9-69">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="543" y="1290" />
+              <mxPoint x="543" y="1290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cxGSCQVcs1KOMOcaWvu9-92" value="ID" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cxGSCQVcs1KOMOcaWvu9-91">
+          <mxGeometry x="-0.15" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cxGSCQVcs1KOMOcaWvu9-73" value="TextureLayer&lt;br&gt;(paint)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="481.5" y="1220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cxGSCQVcs1KOMOcaWvu9-82" value="" style="endArrow=classic;startArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cxGSCQVcs1KOMOcaWvu9-69">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="205" y="1330" as="sourcePoint" />
+            <mxPoint x="255" y="1280" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="255" y="1350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cxGSCQVcs1KOMOcaWvu9-83" value="ID" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cxGSCQVcs1KOMOcaWvu9-82">
+          <mxGeometry x="0.7852" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cxGSCQVcs1KOMOcaWvu9-84" value="register" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cxGSCQVcs1KOMOcaWvu9-82">
+          <mxGeometry x="-0.4698" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cxGSCQVcs1KOMOcaWvu9-85" value="ID" style="endArrow=classic;startArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cxGSCQVcs1KOMOcaWvu9-68" target="cxGSCQVcs1KOMOcaWvu9-67">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="1370" as="sourcePoint" />
+            <mxPoint x="260" y="1190" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
