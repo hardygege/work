@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-23T08:21:44.591Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="jMhPCS5y2Lo2d7wj2ju-" version="14.6.12" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-24T01:12:02.209Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="2o1zKB0vI9jwB66LpuR1" version="14.6.12" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2253" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2076" dy="811" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -277,6 +277,9 @@
         <mxCell id="cxGSCQVcs1KOMOcaWvu9-71" value="FlutterTexture&lt;br&gt;(copyPixelBuffer)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="480" y="1450" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="cxGSCQVcs1KOMOcaWvu9-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cxGSCQVcs1KOMOcaWvu9-72" target="cxGSCQVcs1KOMOcaWvu9-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="cxGSCQVcs1KOMOcaWvu9-72" value="Flutter GLRender" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="480" y="1550" width="120" height="60" as="geometry" />
         </mxCell>
@@ -327,11 +330,14 @@
             <mxPoint x="460" y="1360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cxGSCQVcs1KOMOcaWvu9-101" value="" style="endArrow=classic;html=1;dashed=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="cxGSCQVcs1KOMOcaWvu9-101" value="" style="endArrow=classic;html=1;dashed=1;fillColor=#008a00;strokeColor=#005700;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint y="1119" as="sourcePoint" />
             <mxPoint x="810" y="1119" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="cxGSCQVcs1KOMOcaWvu9-102" value="Flutter图片显示过程" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="40" y="1440" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
