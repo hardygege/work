@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-11T07:58:18.299Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="-BJzjnpYHx9RuLq5D9Xc" version="14.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-11T08:03:36.980Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="kv8lFY37c-v7cFt6OTlC" version="14.8.4" type="github">
   <diagram id="c8v-kaahiSLXKQiEAVcO" name="Page-1">
     <mxGraphModel dx="1251" dy="811" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -58,16 +58,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pL3rWaC8xF-uQzeE3CF4-12" value="解析协议" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1354" y="525" width="120" height="60" as="geometry" />
+          <mxGeometry x="1220" y="525" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pL3rWaC8xF-uQzeE3CF4-20" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pL3rWaC8xF-uQzeE3CF4-17" target="pL3rWaC8xF-uQzeE3CF4-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pL3rWaC8xF-uQzeE3CF4-17" value="&lt;span&gt;是否需要跳转落地页&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1214" y="515" width="80" height="80" as="geometry" />
+          <mxGeometry x="1080" y="515" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="pL3rWaC8xF-uQzeE3CF4-21" value="落地页" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1534" y="525" width="120" height="60" as="geometry" />
+          <mxGeometry x="1390" y="525" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pL3rWaC8xF-uQzeE3CF4-24" value="新用户引流方式" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="190" width="120" height="60" as="geometry" />
@@ -96,8 +96,38 @@
         <mxCell id="2cekDdc-D5DSVQ62kh15-6" value="下载APP" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="525" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="2cekDdc-D5DSVQ62kh15-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="850" y="528" as="sourcePoint" />
+            <mxPoint x="920" y="453" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="850" y="453" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2cekDdc-D5DSVQ62kh15-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2cekDdc-D5DSVQ62kh15-9" target="2cekDdc-D5DSVQ62kh15-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="850" y="670" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="2cekDdc-D5DSVQ62kh15-9" value="是否来自GooglePlay" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="810" y="515" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2cekDdc-D5DSVQ62kh15-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2cekDdc-D5DSVQ62kh15-12" target="pL3rWaC8xF-uQzeE3CF4-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2cekDdc-D5DSVQ62kh15-12" value="解析referrer协议" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="419" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2cekDdc-D5DSVQ62kh15-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2cekDdc-D5DSVQ62kh15-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1120" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2cekDdc-D5DSVQ62kh15-14" value="调用云端接口" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="640" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
