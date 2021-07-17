@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-11T11:54:17.006Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="Jv5c2-38NVIJZvlku0oz" version="14.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-17T08:19:01.359Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" etag="EpwrZxPP_hnIwShqFAXK" version="14.8.5" type="github">
   <diagram id="c8v-kaahiSLXKQiEAVcO" name="Page-1">
-    <mxGraphModel dx="1250" dy="811" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1250" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -86,7 +86,7 @@
         <mxCell id="2cekDdc-D5DSVQ62kh15-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2cekDdc-D5DSVQ62kh15-1" target="2cekDdc-D5DSVQ62kh15-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xce5-fqaxS3cQfZgl50q-2" value="安装" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2cekDdc-D5DSVQ62kh15-7">
+        <mxCell id="xce5-fqaxS3cQfZgl50q-2" value="安装" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="2cekDdc-D5DSVQ62kh15-7" vertex="1" connectable="0">
           <mxGeometry x="0.1481" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -94,7 +94,7 @@
         <mxCell id="2cekDdc-D5DSVQ62kh15-1" value="其它应用市场/平台" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="210" y="640" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2cekDdc-D5DSVQ62kh15-4" value="上传deviceId等环境信息到云端" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="2cekDdc-D5DSVQ62kh15-4" value="上传落地页协议、deviceId等环境信息到云端" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="210" y="738" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2cekDdc-D5DSVQ62kh15-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2cekDdc-D5DSVQ62kh15-6" target="pL3rWaC8xF-uQzeE3CF4-10" edge="1">
