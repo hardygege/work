@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2021-07-17T08:28:28.096Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" etag="JC5CGkRCcm9AfuFotfPQ" version="14.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-17T02:01:01.131Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="1Ss9pyA-P1q412iBRHQ7" version="14.8.5" type="github">
   <diagram id="c8v-kaahiSLXKQiEAVcO" name="Page-1">
-    <mxGraphModel dx="1250" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1486" dy="811" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="pL3rWaC8xF-uQzeE3CF4-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pL3rWaC8xF-uQzeE3CF4-1" target="pL3rWaC8xF-uQzeE3CF4-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pL3rWaC8xF-uQzeE3CF4-1" value="新用户引流H5" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="pL3rWaC8xF-uQzeE3CF4-1" value="新用户引流H5&lt;br&gt;页面" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="60" y="525" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pL3rWaC8xF-uQzeE3CF4-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pL3rWaC8xF-uQzeE3CF4-2" edge="1">
@@ -144,25 +144,25 @@
         <mxCell id="2cekDdc-D5DSVQ62kh15-14" value="调用云端接口" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="706" y="640" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="txVH6oLdCUnUu7ELfl-t-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="txVH6oLdCUnUu7ELfl-t-1" target="txVH6oLdCUnUu7ELfl-t-6">
+        <mxCell id="txVH6oLdCUnUu7ELfl-t-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="txVH6oLdCUnUu7ELfl-t-1" target="txVH6oLdCUnUu7ELfl-t-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="txVH6oLdCUnUu7ELfl-t-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="txVH6oLdCUnUu7ELfl-t-1" target="txVH6oLdCUnUu7ELfl-t-8">
+        <mxCell id="txVH6oLdCUnUu7ELfl-t-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="txVH6oLdCUnUu7ELfl-t-1" target="txVH6oLdCUnUu7ELfl-t-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="txVH6oLdCUnUu7ELfl-t-1" value="某营销渠道" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="txVH6oLdCUnUu7ELfl-t-1" value="某营销渠道" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="970" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="txVH6oLdCUnUu7ELfl-t-5" value="&lt;font style=&quot;font-size: 16px&quot;&gt;新用户引流到落地页流程图&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+        <mxCell id="txVH6oLdCUnUu7ELfl-t-5" value="&lt;font style=&quot;font-size: 16px&quot;&gt;新用户引流到落地页流程图&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="1010" y="790" width="231" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="txVH6oLdCUnUu7ELfl-t-6" value="上传落地页协议、deviceId等环境信息到云端" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="txVH6oLdCUnUu7ELfl-t-6" value="上传落地页协议、deviceId等环境信息到云端" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="1080" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="txVH6oLdCUnUu7ELfl-t-8" value="非GooglePlay平台" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="txVH6oLdCUnUu7ELfl-t-8" value="非GooglePlay平台" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="970" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="txVH6oLdCUnUu7ELfl-t-10" value="下载打开APP" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="txVH6oLdCUnUu7ELfl-t-10" value="下载打开APP" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="970" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
